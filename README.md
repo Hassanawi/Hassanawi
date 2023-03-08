@@ -34,12 +34,12 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAliS&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/MohsinAliS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanawi&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/Hassanawi/github-readme-stats)
 <!-- </details> -->
 
 
-[linkedin]: https://www.linkedin.com/in/mohsinalisolangi
-[github]: https://github.com/MohsinAliS
+[linkedin]: https://www.linkedin.com/in/-hassan-sarfraz
+[github]: https://github.com/Hassanawi
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
