@@ -7,6 +7,8 @@
      - Sometimes dabble in Stock markets/ Cryptos <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
      - Reach me  hassan.sarfraz030@gmail.com
 
+---
+
 ### Languages and Technologies:
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
