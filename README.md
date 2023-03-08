@@ -35,13 +35,6 @@
 
 ---
 
-### :zap: Github Stats
-
-[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanawi&show_icons=true&theme=tokyonight)](https://github.com/Hassanawi/github-readme-stats)
---
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanawi&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/Hassanawi/github-readme-stats)
 <!-- </details> -->
 
 
