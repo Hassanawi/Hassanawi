@@ -19,8 +19,6 @@
      <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" width="40" height="40"/> 
      <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" width="40" height="40" />          
      <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40" height="40"/>        
-      
-     
     <img alt="Google Cloud Platform" src="https://camo.githubusercontent.com/aa60a5bac9215fc3b3af19cf90b54b721a6019f2d4cf1133a18b76bb5ac72583/68747470733a2f2f7777772e74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667" width="40" height="40"/> 
     <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
     
