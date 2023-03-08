@@ -35,7 +35,7 @@
 
 ### :zap: Github Stats
 
-[![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAliS&show_icons=true&theme=tokyonight)](https://github.com/MohsinAliS/github-readme-stats)
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanawi&show_icons=true&theme=tokyonight)](https://github.com/Hassanawi/github-readme-stats)
 --
 
 
