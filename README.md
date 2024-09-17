@@ -26,7 +26,7 @@ Contributed to the **Buschcoin** project, involving:
 - Development of NFT-based gaming cards
 - Integration with the frontend to create a cohesive user experience
 
-#### 🌟 [NFT Launchpad](https://github.com/Hassanawi/Lunchpad)
+#### 🌟 [Crypto Launchpad](https://github.com/Hassanawi/Lunchpad)
 Worked on the **NFT Launchpad** project focusing on:
 - Backend contract writing and deployment
 - Secure and efficient token launch system
