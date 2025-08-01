@@ -40,31 +40,31 @@ I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-
 
 ## 🧪 Highlight Projects
 
-### 🤖 [AI Hiring Platform](https://github.com/Hassanawi/ai-hiring-platform)
+### 🤖 [AI Hiring Platform]
 Full-stack app with resume parsing, interview scoring & dashboards. Built with React, Gemini AI, and Firebase.  
 
 
-### 💊 [HomeDr (Medical RAG Chatbot)](https://github.com/Hassanawi/HomeDr)
+### 💊 [HomeDr (Medical RAG Chatbot)]
 RAG-based chatbot with LangChain + Vector DB + Streamlit. Achieved 90%+ retrieval accuracy.  
 
 
-### 🚲 [Bike Demand Forecasting](https://github.com/Hassanawi/bike-sharing-forecast)
+### 🚲 [Bike Demand Forecasting]
 Regression model deployed to Azure with Streamlit + MLflow. Improved accuracy by 27%.  
 
 
-### 🚀 [Crypto Launchpad](https://github.com/Hassanawi/crypto-launchpad)
+### 🚀 [Crypto Launchpad]
 Smart contracts for presale, airdrop, and liquidity lock. Modular and testnet-deployed via Hardhat.  
 
 
-### 🎨 [NFT Marketplace](https://github.com/Hassanawi/nft-marketplace)
+### 🎨 [NFT Marketplace]
 NFT minting/trading platform using React, ERC-721 & IPFS. MetaMask integrated frontend.  
 
 
-### 🏠 [Land Registry DApp](https://github.com/Hassanawi/land-registry)
+### 🏠 [Land Registry DApp]
 Decentralized land ownership on Ethereum + IPFS. Transfers without intermediaries.  
 
 
-### 🕹️ [Gaming Cards NFTs](https://github.com/Hassanawi/nft-gaming-cards)
+### 🕹️ [Gaming Cards NFTs]
 Card game with tokenized upgrades & PvP logic. Rarity-based minting smart contracts.  
 
 
