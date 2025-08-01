@@ -3,7 +3,7 @@
 🧠 AI/ML Engineer | 🔗 Blockchain Developer | 🎓 Data Science Student  
 📍 Islamabad, Pakistan  
 📧 hassan.sarfraz030@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/-hassan-sarfraz) | 🏢 [AxumForge](https://www.linkedin.com/company/axumforge/)
+🔗 [LinkedIn](https://www.linkedin.com/in/-hassan-sarfraz) 
 
 ---
 
@@ -42,31 +42,31 @@ I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-
 
 ### 🤖 [AI Hiring Platform](https://github.com/Hassanawi/ai-hiring-platform)
 Full-stack app with resume parsing, interview scoring & dashboards. Built with React, Gemini AI, and Firebase.  
-![ai-hiring-platform](https://github.com/Hassanawi/ai-hiring-platform/raw/main/demo.gif)
+
 
 ### 💊 [HomeDr (Medical RAG Chatbot)](https://github.com/Hassanawi/HomeDr)
 RAG-based chatbot with LangChain + Vector DB + Streamlit. Achieved 90%+ retrieval accuracy.  
-![homedr](https://github.com/Hassanawi/HomeDr/raw/main/demo.gif)
+
 
 ### 🚲 [Bike Demand Forecasting](https://github.com/Hassanawi/bike-sharing-forecast)
 Regression model deployed to Azure with Streamlit + MLflow. Improved accuracy by 27%.  
-![bike-demand](https://github.com/Hassanawi/bike-sharing-forecast/raw/main/demo.gif)
+
 
 ### 🚀 [Crypto Launchpad](https://github.com/Hassanawi/crypto-launchpad)
 Smart contracts for presale, airdrop, and liquidity lock. Modular and testnet-deployed via Hardhat.  
-![launchpad](https://github.com/Hassanawi/crypto-launchpad/raw/main/demo.gif)
+
 
 ### 🎨 [NFT Marketplace](https://github.com/Hassanawi/nft-marketplace)
 NFT minting/trading platform using React, ERC-721 & IPFS. MetaMask integrated frontend.  
-![marketplace](https://github.com/Hassanawi/nft-marketplace/raw/main/demo.gif)
+
 
 ### 🏠 [Land Registry DApp](https://github.com/Hassanawi/land-registry)
 Decentralized land ownership on Ethereum + IPFS. Transfers without intermediaries.  
-![land-registry](https://github.com/Hassanawi/land-registry/raw/main/demo.gif)
+
 
 ### 🕹️ [Gaming Cards NFTs](https://github.com/Hassanawi/nft-gaming-cards)
 Card game with tokenized upgrades & PvP logic. Rarity-based minting smart contracts.  
-![gaming-nfts](https://github.com/Hassanawi/nft-gaming-cards/raw/main/demo.gif)
+
 
 ---
 
