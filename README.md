@@ -7,21 +7,21 @@
 
 ---
 
-I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-on experience building **real-time AI apps**, **RAG-based assistants**, **NFT marketplaces**, and **crypto launchpads**. I specialize in combining **machine learning**, **smart contracts**, and **frontend/backend technologies** to deliver scalable, production-ready solutions.
+I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-on experience building real-time AI apps, RAG-based assistants, NFT marketplaces, and crypto launchpads. I specialize in combining **machine learning**, **smart contracts**, and **frontend/backend technologies** to deliver scalable, production-ready solutions.
 
 ---
 
 ## 🚀 What I Do
 
 ### 🧠 AI & ML Engineering
-- Build & deploy machine learning models using Python, FastAPI, MLflow, and Azure
-- NLP, classification, regression, and Retrieval-Augmented Generation (RAG)
-- Use LangChain, Streamlit, Docker, and version control for MLOps pipelines
+- Build & deploy ML models using Python, FastAPI, MLflow, and Azure
+- NLP, classification, regression, Retrieval-Augmented Generation (RAG)
+- LangChain, Streamlit, Docker, Git, MLOps pipelines
 
 ### 🔗 Blockchain & Web3
-- Develop and test smart contracts (ERC-20, ERC-721, upgradable, presale)
-- Integrate DApps using React, Web3.js, Ethers.js, and MetaMask
-- Leverage IPFS, Pinata, and Docker for Web3 storage and deployments
+- Smart contracts (ERC-20, ERC-721, upgradable, presale)
+- DApps with React, Web3.js, Ethers.js, MetaMask
+- IPFS, Pinata, Docker for decentralized storage
 
 ---
 
@@ -40,39 +40,40 @@ I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-
 
 ## 🧪 Highlight Projects
 
-### 🤖 **AI Hiring Platform**
-- Full-stack app for automated resume parsing, interview scoring & recruiter dashboards
-- Used Gemini AI, Firebase, and React for seamless UX
+### 🤖 [AI Hiring Platform](https://github.com/Hassanawi/ai-hiring-platform)
+Full-stack app with resume parsing, interview scoring & dashboards. Built with React, Gemini AI, and Firebase.  
+![ai-hiring-platform](https://github.com/Hassanawi/ai-hiring-platform/raw/main/demo.gif)
 
-### 💊 **HomeDr (Medical RAG Chatbot)**
-- Built with LangChain + Vector DB + Streamlit
-- Suggested diseases based on symptoms with 90%+ retrieval accuracy
+### 💊 [HomeDr (Medical RAG Chatbot)](https://github.com/Hassanawi/HomeDr)
+RAG-based chatbot with LangChain + Vector DB + Streamlit. Achieved 90%+ retrieval accuracy.  
+![homedr](https://github.com/Hassanawi/HomeDr/raw/main/demo.gif)
 
-### 🚲 **Bike Sharing Demand Forecasting**
-- Azure-deployed regression model with MLflow + Streamlit dashboard
-- Increased prediction accuracy by 27% using model tuning
+### 🚲 [Bike Demand Forecasting](https://github.com/Hassanawi/bike-sharing-forecast)
+Regression model deployed to Azure with Streamlit + MLflow. Improved accuracy by 27%.  
+![bike-demand](https://github.com/Hassanawi/bike-sharing-forecast/raw/main/demo.gif)
 
-### 🚀 **Crypto Launchpad**
-- Created token presale, airdrop, and liquidity lock features
-- Modular ERC-20 contracts deployed via Hardhat on testnets
+### 🚀 [Crypto Launchpad](https://github.com/Hassanawi/crypto-launchpad)
+Smart contracts for presale, airdrop, and liquidity lock. Modular and testnet-deployed via Hardhat.  
+![launchpad](https://github.com/Hassanawi/crypto-launchpad/raw/main/demo.gif)
 
-### 🎨 **NFT Marketplace**
-- NFT minting/trading platform using ERC-721 + React + Pinata
-- IPFS for metadata storage, MetaMask wallet integration
+### 🎨 [NFT Marketplace](https://github.com/Hassanawi/nft-marketplace)
+NFT minting/trading platform using React, ERC-721 & IPFS. MetaMask integrated frontend.  
+![marketplace](https://github.com/Hassanawi/nft-marketplace/raw/main/demo.gif)
 
-### 🏠 **Land Registry DApp**
-- Decentralized land ownership system using Solidity & IPFS
-- Enabled secure ownership transfer without intermediaries
+### 🏠 [Land Registry DApp](https://github.com/Hassanawi/land-registry)
+Decentralized land ownership on Ethereum + IPFS. Transfers without intermediaries.  
+![land-registry](https://github.com/Hassanawi/land-registry/raw/main/demo.gif)
 
-### 🕹️ **Gaming Cards NFTs**
-- Tokenized card game using blockchain-based rarity and PvP mechanics
+### 🕹️ [Gaming Cards NFTs](https://github.com/Hassanawi/nft-gaming-cards)
+Card game with tokenized upgrades & PvP logic. Rarity-based minting smart contracts.  
+![gaming-nfts](https://github.com/Hassanawi/nft-gaming-cards/raw/main/demo.gif)
 
 ---
 
 ## 🏅 Certifications
 
 - **Blockchain Bootcamp** – Institute of Emerging Careers  
-- **Blockchain Developer Course** – Udemy  
+- **Blockchain Developer** – Udemy
 
 ---
 
@@ -83,7 +84,7 @@ I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-
 
 ---
 
-## 📫 Let’s Collaborate
+## 📢 Let’s Collaborate
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/-hassan-sarfraz)  
 - 📧 hassan.sarfraz030@gmail.com  
@@ -91,5 +92,6 @@ I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-
 
 ---
 
-## 🎮 Fun Fact  
-When I’m not building with code, you’ll find me deep into Web3 rabbit holes, testing out AI tools, or brainstorming ideas for the next NFT gaming experience. I love mixing creativity with logic—whether it’s optimizing a model or crafting a smart contract that feels like digital magic.
+## 🎮 Fun Fact
+I often find inspiration for technical solutions while gaming or sketching out ideas on paper. Sometimes, my best code starts as a game mechanic or a doodle in a notebook.
+
