@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hassan Sarfraz (Hassanawi)
+# 👋 Hi, I'm Hassan Sarfraz
 
 🧠 AI/ML Engineer | 🔗 Blockchain Developer |  
 📍 Islamabad, Pakistan  
