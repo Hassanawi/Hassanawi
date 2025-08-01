@@ -76,13 +76,12 @@ Card game with tokenized upgrades & PvP logic. Rarity-based minting smart contra
 - **Blockchain Developer** – Udemy
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassanawi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanawi&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassanawi&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanawi&layout=compact&theme=tokyonight" width="45%" />
+</p>
 
 ## 📢 Let’s Collaborate
 
