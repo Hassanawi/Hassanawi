@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hassan Sarfraz (Hassanawi)
 
-🧠 AI/ML Engineer | 🔗 Blockchain Developer | 🎓 Data Science Student  
+🧠 AI/ML Engineer | 🔗 Blockchain Developer |  
 📍 Islamabad, Pakistan  
 📧 hassan.sarfraz030@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/-hassan-sarfraz) | 🏢 [AxumForge](https://www.linkedin.com/company/axumforge/)
+🔗 [LinkedIn](https://www.linkedin.com/in/-hassan-sarfraz) 
 
 ---
 
