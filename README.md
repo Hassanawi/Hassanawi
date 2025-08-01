@@ -91,6 +91,5 @@ I'm a results-driven **AI/ML Engineer** and **Blockchain Developer** with hands-
 
 ---
 
-## 🎮 Fun Fact
-When I’m not coding, I’m likely exploring the newest NFT trends, playing blockchain games, or optimizing model performance for real-world tasks.
-
+## 🎮 Fun Fact  
+When I’m not building with code, you’ll find me deep into Web3 rabbit holes, testing out AI tools, or brainstorming ideas for the next NFT gaming experience. I love mixing creativity with logic—whether it’s optimizing a model or crafting a smart contract that feels like digital magic.
